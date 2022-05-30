@@ -8,7 +8,7 @@ numpy
 pandas
 plotly
 yfinance
-dateutil
+python-dateutil
 base64
 json
 requests
