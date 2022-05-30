@@ -13,3 +13,4 @@ requests
 python-math
 datetime
 scikit-learn
+tensorflow
