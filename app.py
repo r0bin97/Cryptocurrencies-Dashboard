@@ -26,6 +26,8 @@ warnings.filterwarnings("ignore")
 # Calling the app
 app = Dash(external_stylesheets=[dbc.themes.GRID])
 
+server = app.server
+
 # ----------------------------------------------------------------------------------------------------------------------
 # Building the necessary elements / functions
 
