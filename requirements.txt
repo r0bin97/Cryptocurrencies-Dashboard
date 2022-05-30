@@ -9,10 +9,7 @@ pandas
 plotly
 yfinance
 python-dateutil
-base64
-json
 requests
-warnings
-math
+python-math
 datetime
-sklearn
+scikit-learn
